@@ -2,6 +2,7 @@
 Love Beer🍺, Game🎮 and Board🏂 and I hope to develop every beautiful things✨ 
 
 <br>
+
 <pre>
 🔭 I’m currently working with ...
 
@@ -15,6 +16,9 @@ Android
 
 <a href="https://www.reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 </pre>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejaedev &show_icons=true&theme=radical)
 
 <!--
 **heejaedev/heejaedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
