@@ -1,14 +1,20 @@
-#### I'm Heejae Jeong👋 **mobile app developer** using Android.
-Love Beer🍺, Game🎮 and Board🏂 and I hope to develop every beautiful things✨ 
+## Hola, I'm Heejae Jeong 👋
+
+- 🔭 I’m currently working on Android App Developer
+- 🌱 I’m currently learning Kotlin
+- 👯 I’m looking to collaborate on Android and web developer
+- 🤔 I’m looking for help with Camera Module
+- 💬 Ask me about Android
+- ⚡ Fun fact: I Love BEER🍺, GAME🎮 and SNOW BOARD🏂 and I hope to develop every beautiful things✨ 
+
 
 <br>
 
 <pre>
 🔭 I’m currently working with ...
 
-Android
-
-<a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a> <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+</pre> 
 </pre>
 
 <pre>
@@ -19,18 +25,3 @@ Android
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejaedev&theme=default&show_icons=true)
-
-<!--
-**heejaedev/heejaedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
