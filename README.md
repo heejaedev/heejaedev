@@ -1,9 +1,7 @@
-# I'm Heejae Jeong👋 **mobile app developer** using Android.
+#### I'm Heejae Jeong👋 **mobile app developer** using Android.
+Love Beer🍺, Game🎮 and Board🏂 and I hope to develop every beautiful things✨ 
 
-### Love Beer🍺, Game🎮 and Board 🏂
-### I hope to develop every beautiful things✨ 
-
-
+<br>
 <pre>
 🔭 I’m currently working with ...
 
