@@ -1,7 +1,7 @@
-### Hi there👋 I'm mobile app developer using Android.
+## Hi there👋 I'm **mobile app developer** using Android.
 
-I enjoy to play online-game and snow board.
-I hope to develop every beautiful things :)
+### Love Beer🍺, Game🎮 and Board 🏂
+### I hope to develop every beautiful things✨ 
 
 <!--
 **heejaedev/heejaedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
