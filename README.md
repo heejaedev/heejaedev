@@ -1,10 +1,9 @@
 ## Hola, I'm Heejae Jeong 👋
 
-- 🔭 I’m currently working on Android App Developer
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on Android and web developer
-- 🤔 I’m looking for help with Camera Module
-- 💬 Ask me about Android
+- 🔭 I’m currently working on **Android App Developer**
+- 👯 I’m looking to collaborate on **Android and web development**
+- 🤔 I’m looking for help with **Android Camera Module**
+- 💬 Ask me about **Android**
 - ⚡ Fun fact: I Love BEER🍺, GAME🎮 and SNOW BOARD🏂 and I hope to develop every beautiful things✨ 
 
 
