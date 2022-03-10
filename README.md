@@ -1,8 +1,8 @@
 ## Hola, I'm Heejae Jeong 👋
 
-- 🔭 I’m currently working on **Android App Developer**
+- 🔭 I’m currently working on **Android Engineer**
 - 👯 I’m looking to collaborate on **Android and web development**
-- 🤔 I’m looking for help with **Android Camera Module**
+- 🤔 I’m looking for help with **Android Google Map**
 - 💬 Ask me about **Android**
 - ⚡ Fun fact: I Love BEER🍺, GAME🎮 and SNOW BOARD🏂 and I hope to develop every beautiful things✨ 
 
