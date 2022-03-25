@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Android Engineer**
 - 👯 I’m looking to collaborate on **Android and web development**
 - 🤔 I’m looking for help with **Android Google Map**
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android**!
 - ⚡ Fun fact: I Love BEER 🍺, LOSTARK 🎮 and SNOW BOARD🏂 and I hope to develop every beautiful things✨
 
 
