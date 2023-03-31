@@ -1,4 +1,4 @@
-## Hola, I'm Celina Heejae Jeong 👋
+## Hola, I'm Celiena Heejae Jeong 👋
 
 - 🔭 I’m currently working on **Android Engineer**
 - 👯 I’m looking to collaborate on **Android and web development**
