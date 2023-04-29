@@ -1,9 +1,8 @@
 ## Hola, I'm Celiena Heejae Jeong 👋
 
 - 🔭 I’m currently working on **Android Engineer**
-- 👯 I’m looking to collaborate on **Android and web development**
-- 🤔 I’m looking for help with **Android Google Map**
-- 💬 Ask me about **Android**!
+- - 💬 Ask me about **Android**!
+- 👯 I’m looking to collaborate on **BCI(Brain Computer Interface)**
 - ⚡ Fun fact: I Love BEER 🍺, GAME 🎮 and SNOW BOARD🏂 and I hope to develop every beautiful things✨
 
 
