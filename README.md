@@ -1,8 +1,7 @@
 ## Hola, I'm Celiena Heejae Jeong 👋
 
-- 🔭 I’m currently working on **Android Engineer**
+- 🔭 I’m currently research about **BCI(Brain Computer Interface)** (👯 I did it!!)
 - - 💬 Ask me about **Android**!
-- 👯 I’m looking to collaborate on **BCI(Brain Computer Interface)**
 - ⚡ Fun fact: I Love BEER 🍺, GAME 🎮 and SNOW BOARD🏂 and I hope to develop every beautiful things✨
 
 
