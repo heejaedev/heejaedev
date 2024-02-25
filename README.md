@@ -4,7 +4,6 @@
 - - 💬 Ask me about **Android**!
 - ⚡ Fun fact: I Love BEER 🍺, GAME 🎮 and SNOW BOARD🏂 and I hope to develop every beautiful things✨
 
-
 <br>
 
 <pre>
