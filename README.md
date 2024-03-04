@@ -1,6 +1,6 @@
 ## Hola, I'm Celiena Heejae Jeong 👋
 
-- 🔭 I’m currently study about **BCI(Brain Computer Interface)** (👯 I did it!!)
+- 🔭 I’m currently study about **BCI(Brain Computer Interface)** (👯 I did it!!)
 - - 💬 Ask me about **Android**!
 - ⚡ Fun fact: I Love BEER 🍺, GAME 🎮 and SNOW BOARD🏂 and I hope to develop every beautiful things✨
 
